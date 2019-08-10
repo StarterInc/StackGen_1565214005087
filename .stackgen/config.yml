@@ -1,0 +1,9 @@
+stackgen:
+  plugin:
+    name: {{pluginName}}
+    description: {{pluginDescription}}
+    details: {{pluginDetails}}
+    version: {{pluginVersion}}
+    requires: {{pluginRequires}}
+    debug: true
+    marketplaceId: 10000
